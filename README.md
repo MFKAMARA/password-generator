@@ -36,7 +36,7 @@ Follow the prompts to customize your password:
 
 MOCK-UP
 
-![!\[Alt text\](<Image 11-14-23 at 5.09 PM.jpeg>)](../Assets/03-javascript-homework-demo.png)
+![!\[Alt text\](<Image 11-14-23 at 5.09 PM.jpeg>)](../Assets/Image%2011-14-23%20at%205.09 PM.jpeg)
 
 Enter the desired password length.
 Choose character sets to include (uppercase letters, lowercase letters, numbers, symbols).
